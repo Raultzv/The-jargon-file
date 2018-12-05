@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(198, 224, 236);
+    font-family: sans-serif;
+}
+pre{
+    background-color: white;
+    font-weight: bolder;
+}
+
+h1{
+    font-size: 3rem;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+blockquote{
+    font-size: 16px;
+    font-style: oblique;
+}
+h2{
+    font-size: 2rem;
+    background-color: rgb(64, 153, 191);
+}
+address{
+    text-align: right;
+    
+}
+h3{
+    font-size: 1.5rem;
+    color: white;
+    background-color: rgb(121, 184, 210);
+}
+ 
+ 
+
